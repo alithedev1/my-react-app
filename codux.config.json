@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "my-codux-project",
+  "libraries": [
+    {
+      "type": "rich-content",
+      "path": "@codux-boards/react-semantic"
+    }
+  ],
+  "addPanel": {
+    "assets": ["@codux-boards/react-semantic", "@codux-boards/react-blueprint"]
+  }
+}
